@@ -1,11 +1,12 @@
----
+﻿---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "aoshu.ga的博客 " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+这一页是自我介绍。
+爱好数学，爱好编程。
 
 
 
